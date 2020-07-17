@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/kgbportfolio2/static/css/main.3a7ff8aa.chunk.css",
+    "main.js": "/kgbportfolio2/static/js/main.1dd36c2d.chunk.js",
+    "main.js.map": "/kgbportfolio2/static/js/main.1dd36c2d.chunk.js.map",
+    "runtime-main.js": "/kgbportfolio2/static/js/runtime-main.e7a7aaf8.js",
+    "runtime-main.js.map": "/kgbportfolio2/static/js/runtime-main.e7a7aaf8.js.map",
+    "static/js/2.560136a8.chunk.js": "/kgbportfolio2/static/js/2.560136a8.chunk.js",
+    "static/js/2.560136a8.chunk.js.map": "/kgbportfolio2/static/js/2.560136a8.chunk.js.map",
+    "index.html": "/kgbportfolio2/index.html",
+    "precache-manifest.2b00e15b18edee6e137fd14149583294.js": "/kgbportfolio2/precache-manifest.2b00e15b18edee6e137fd14149583294.js",
+    "service-worker.js": "/kgbportfolio2/service-worker.js",
+    "static/css/main.3a7ff8aa.chunk.css.map": "/kgbportfolio2/static/css/main.3a7ff8aa.chunk.css.map",
+    "static/js/2.560136a8.chunk.js.LICENSE.txt": "/kgbportfolio2/static/js/2.560136a8.chunk.js.LICENSE.txt",
+    "static/media/01-full.jpg": "/kgbportfolio2/static/media/01-full.f8648487.jpg",
+    "static/media/01-thumbnail.jpg": "/kgbportfolio2/static/media/01-thumbnail.eda45981.jpg",
+    "static/media/02-full.jpg": "/kgbportfolio2/static/media/02-full.8fdb36b5.jpg",
+    "static/media/02-thumbnail.jpg": "/kgbportfolio2/static/media/02-thumbnail.e52270b3.jpg",
+    "static/media/03-full.jpg": "/kgbportfolio2/static/media/03-full.3b263f0f.jpg",
+    "static/media/03-thumbnail.jpg": "/kgbportfolio2/static/media/03-thumbnail.09c41872.jpg",
+    "static/media/04-full.jpg": "/kgbportfolio2/static/media/04-full.c58223e1.jpg",
+    "static/media/04-thumbnail.jpg": "/kgbportfolio2/static/media/04-thumbnail.80c8ff5c.jpg",
+    "static/media/05-full.jpg": "/kgbportfolio2/static/media/05-full.408a2be2.jpg",
+    "static/media/05-thumbnail.jpg": "/kgbportfolio2/static/media/05-thumbnail.68d8d949.jpg",
+    "static/media/06-full.jpg": "/kgbportfolio2/static/media/06-full.6379a8ad.jpg",
+    "static/media/06-thumbnail.jpg": "/kgbportfolio2/static/media/06-thumbnail.20456fff.jpg",
+    "static/media/1.jpg": "/kgbportfolio2/static/media/1.e0b34f6f.jpg",
+    "static/media/2.jpg": "/kgbportfolio2/static/media/2.cc41e47b.jpg",
+    "static/media/3.jpg": "/kgbportfolio2/static/media/3.2df43e35.jpg",
+    "static/media/header-bg.jpg": "/kgbportfolio2/static/media/header-bg.e2d2a51c.jpg",
+    "static/media/styles.css": "/kgbportfolio2/static/media/map-image.f40ed5b1.png",
+    "static/media/navbar-logo.svg": "/kgbportfolio2/static/media/navbar-logo.2c061749.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a7aaf8.js",
+    "static/js/2.560136a8.chunk.js",
+    "static/css/main.3a7ff8aa.chunk.css",
+    "static/js/main.1dd36c2d.chunk.js"
+  ]
+}
